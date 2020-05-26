@@ -1,0 +1,902 @@
+<aturan>
+	<produksi>
+		<left>GR</left>
+		<right>GR Z</right>
+	</produksi>
+	<produksi>
+		<left>GR</left>
+		<right>KV Z</right>
+	</produksi>
+	<produksi>
+		<left>GR</left>
+		<right>KN Z</right>
+	</produksi>
+	<produksi>
+		<left>GR</left>
+		<right>KA Z</right>
+	</produksi>
+	<produksi>
+		<left>GR</left>
+		<right>KP Z</right>
+	</produksi>
+	<produksi>
+		<left>GR</left>
+		<right>KM Z</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC KN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC KV</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC KA</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC KP</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC KM</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC FNN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC FVN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC NN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC NND</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC NNP</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC PRP</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC WH</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC VB</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>SC JJ</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC KN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC KV</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC KA</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC KP</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC KM</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC FNN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC FVN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC NN</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC NND</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC NNP</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC PRP</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC WH</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC VB</right>
+	</produksi>
+	<produksi>
+		<left>AG</left>
+		<right>CC JJ</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>FNN AG</right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>NN AG</right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>NNP AG</right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>NND AG</right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>PRP AG</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>KV AG</right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>KN AG</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>KA AG</right>
+	</produksi>
+	<produksi>
+		<left>KP</left>
+		<right>KP AG</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>KM AG</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNV AG</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>KV FNN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNN FVN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FND FVN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNV FNN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNV FAN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNN FRV</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNN FVR</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNR FVN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNV KN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>VB KN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>KV KN</right>
+	</produksi>
+	<produksi>
+		<left>KV</left>
+		<right>FNV KP</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>KN</left>
+		<right>FND FNN</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FND FAN</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FND FAA</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FND FAV</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FND FAR</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FNN FAN</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FNN FAA</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FNN FVA</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FNN FRA</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FVA KP</right>
+	</produksi>
+	<produksi>
+		<left>KA</left>
+		<right>FNN KA</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>KP</left>
+		<right>FNV FP</right>
+	</produksi>
+	<produksi>
+		<left>KP</left>
+		<right>FNN FP</right>
+	</produksi>
+	<produksi>
+		<left>KP</left>
+		<right>IN KN</right>
+	</produksi>
+	<produksi>
+		<left>KP</left>
+		<right>IN KV</right>
+	</produksi>
+	<produksi>
+		<left>KP</left>
+		<right>IN KA</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>NN KM</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>NNP KM</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>NND KM</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>PRP KM</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>WH KM</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>NN FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>NNP FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>NND FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>PRP FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>WH FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>FNN FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>FNN FNM</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>FNV FMN</right>
+	</produksi>
+	<produksi>
+		<left>KM</left>
+		<right>FNV FNM</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>NN FVN</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>NNP FVN</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>NND FVN</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>PRP FVN</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>WH FVN</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>FNN VB</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>FNV NN</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>FNV NNP</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>FNV NND</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>FNV PRP</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>FNV WH</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>FVN FNN</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>FND NN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>FND NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>FND NND</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>FND PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>FND WH</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NN FNN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NNP FNN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NND FNN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>PRP FNN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>WH FNN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>FNN PR</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>NN FRV</right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>NNP FRV</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FNJ</left>
+		<right>FND JJ</right>
+	</produksi>
+	<produksi>
+		<left>FNJ</left>
+		<right>FNN JJ</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NN NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NN NND</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NN PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NN WH</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NNP NN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NNP NND</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NNP PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NNP WH</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NND NN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NND NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NND PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NND WH</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>PRP NN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>PRP NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>PRP NND</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>PRP WH</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>WH NN</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>WH NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>WH NND</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>WH PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NN NN</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>NN VB</right>
+	</produksi>
+	<produksi>
+		<left>FNA</left>
+		<right>NN JJ</right>
+	</produksi>
+	<produksi>
+		<left>FRN</left>
+		<right>RB NN</right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>NN RB</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>NN CD</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>NN OD</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>CD NN</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>OD NN</right>
+	</produksi>
+	<produksi>
+		<left>FND</left>
+		<right>NN PR</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NNP NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>NNP VB</right>
+	</produksi>
+	<produksi>
+		<left>FNA</left>
+		<right>NNP JJ</right>
+	</produksi>
+	<produksi>
+		<left>FRN</left>
+		<right>RB NNP</right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>NNP RB</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>NNP CD</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>NNP OD</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>CD NNP</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>OD NNP</right>
+	</produksi>
+	<produksi>
+		<left>FND</left>
+		<right>NNP PR</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>NND NND</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>NND VB</right>
+	</produksi>
+	<produksi>
+		<left>FNA</left>
+		<right>NND JJ</right>
+	</produksi>
+	<produksi>
+		<left>FRN</left>
+		<right>RB NND</right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>NND RB</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>NND CD</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>NND OD</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>CD NND</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>OD NND</right>
+	</produksi>
+	<produksi>
+		<left>FND</left>
+		<right>NND PR</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>PRP PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>PRP VB</right>
+	</produksi>
+	<produksi>
+		<left>FNA</left>
+		<right>PRP JJ</right>
+	</produksi>
+	<produksi>
+		<left>FRN</left>
+		<right>RB PRP</right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>PRP RB</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>PRP CD</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>PRP OD</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>CD PRP</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>OD PRP</right>
+	</produksi>
+	<produksi>
+		<left>FND</left>
+		<right>PRP PR</right>
+	</produksi>
+	<produksi>
+		<left>FNN</left>
+		<right>WH WH</right>
+	</produksi>
+	<produksi>
+		<left>FNV</left>
+		<right>WH VB</right>
+	</produksi>
+	<produksi>
+		<left>FNA</left>
+		<right>WH JJ</right>
+	</produksi>
+	<produksi>
+		<left>FRN</left>
+		<right>RB WH</right>
+	</produksi>
+	<produksi>
+		<left>FNR</left>
+		<right>WH RB</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>WH CD</right>
+	</produksi>
+	<produksi>
+		<left>FNM</left>
+		<right>WH OD</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>CD WH</right>
+	</produksi>
+	<produksi>
+		<left>FMN</left>
+		<right>OD WH</right>
+	</produksi>
+	<produksi>
+		<left>FND</left>
+		<right>WH PR</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FRV</left>
+		<right>RB VB</right>
+	</produksi>
+	<produksi>
+		<left>FVR</left>
+		<right>VB RB</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>VB NN</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>VB NNP</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>VB NND</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>VB PRP</right>
+	</produksi>
+	<produksi>
+		<left>FVN</left>
+		<right>VB WH</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FVA</left>
+		<right>VB JJ</right>
+	</produksi>
+	<produksi>
+		<left>FAN</left>
+		<right>JJ NN</right>
+	</produksi>
+	<produksi>
+		<left>FAN</left>
+		<right>JJ NNP</right>
+	</produksi>
+	<produksi>
+		<left>FAN</left>
+		<right>JJ NND</right>
+	</produksi>
+	<produksi>
+		<left>FAN</left>
+		<right>JJ PRP</right>
+	</produksi>
+	<produksi>
+		<left>FAN</left>
+		<right>JJ WH</right>
+	</produksi>
+	<produksi>
+		<left>FAA</left>
+		<right>JJ JJ</right>
+	</produksi>
+	<produksi>
+		<left>FAV</left>
+		<right>JJ VB</right>
+	</produksi>
+	<produksi>
+		<left>FRA</left>
+		<right>RB JJ</right>
+	</produksi>
+	<produksi>
+		<left>FAR</left>
+		<right>JJ RB</right>
+	</produksi>
+	<produksi>
+		<left></left>
+		<right></right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN NN</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN NNP</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN NND</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN PRP</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN WH</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN FNN</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN FNM</right>
+	</produksi>
+	<produksi>
+		<left>FP</left>
+		<right>IN FMN</right>
+	</produksi>
+</aturan>
